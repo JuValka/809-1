@@ -28,4 +28,4 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.
 
 登录宝塔面板，点击定时任务，任务类型:Shell脚本，名称随意，执行周期设置4个小时，脚本内容:/root/lt809ml/sub 添加以后执行一下，订阅地址就是:http://你的ip/809
 
-感谢各位大佬的开源，浅殇在这里谢谢各位做的贡献！交流群:643037308
+
